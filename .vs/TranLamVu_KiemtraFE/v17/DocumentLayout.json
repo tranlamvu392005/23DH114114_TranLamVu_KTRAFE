@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TLVFE\\TranLamVu_KiemtraFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|d:\\tlvfe\\tranlamvu_kiemtrafe\\tranlamvu_kiemtrafe\\views\\home\\kiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|solutionrelative:tranlamvu_kiemtrafe\\views\\home\\kiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|d:\\tlvfe\\tranlamvu_kiemtrafe\\tranlamvu_kiemtrafe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|solutionrelative:tranlamvu_kiemtrafe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|d:\\tlvfe\\tranlamvu_kiemtrafe\\tranlamvu_kiemtrafe\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|solutionrelative:tranlamvu_kiemtrafe\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|d:\\tlvfe\\tranlamvu_kiemtrafe\\tranlamvu_kiemtrafe\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|solutionrelative:tranlamvu_kiemtrafe\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|d:\\tlvfe\\tranlamvu_kiemtrafe\\tranlamvu_kiemtrafe\\scripts\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19CBED00-34E5-4889-8023-7A1BC1EB762F}|TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE.csproj|solutionrelative:tranlamvu_kiemtrafe\\scripts\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KiemTra.cshtml",
+              "DocumentMoniker": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Views\\Home\\KiemTra.cshtml",
+              "RelativeDocumentMoniker": "TranLamVu_KiemtraFE\\Views\\Home\\KiemTra.cshtml",
+              "ToolTip": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Views\\Home\\KiemTra.cshtml",
+              "RelativeToolTip": "TranLamVu_KiemtraFE\\Views\\Home\\KiemTra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T13:40:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "TranLamVu_KiemtraFE\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "TranLamVu_KiemtraFE\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T13:38:51.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TranLamVu_KiemtraFE\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TranLamVu_KiemtraFE\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T13:37:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.js.map",
+              "DocumentMoniker": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Scripts\\bootstrap.js.map",
+              "RelativeDocumentMoniker": "TranLamVu_KiemtraFE\\Scripts\\bootstrap.js.map",
+              "ToolTip": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Scripts\\bootstrap.js.map",
+              "RelativeToolTip": "TranLamVu_KiemtraFE\\Scripts\\bootstrap.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T13:32:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TranLamVu_KiemtraFE\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TLVFE\\TranLamVu_KiemtraFE\\TranLamVu_KiemtraFE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TranLamVu_KiemtraFE\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:30:25.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
